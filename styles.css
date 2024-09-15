@@ -1,2 +1,13 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */table,th,td
+{
+	border:1px solid black;
+}
+th,td{
+	padding:8px;
+}
+.black
+{
+	background-color:black;
+	color:white
+}
